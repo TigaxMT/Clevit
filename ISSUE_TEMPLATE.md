@@ -10,7 +10,7 @@
 
 ### Log Files
 
-- Use a service like http://paste2.org/ to provide links to the logs.
+- Use a service like https://gist.github.com/ to provide links to the logs.
 
 ### Additional Informations:
 

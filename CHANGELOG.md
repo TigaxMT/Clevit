@@ -1,4 +1,4 @@
-# TPad CHANGELOG.md
+# Clevit CHANGELOG.md
 - - -
 
 ## 1.3.3
