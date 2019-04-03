@@ -44,7 +44,7 @@ To see how to install those dependencies to your specific operation system check
 # Donations
 
 * If you liked the project and would like to contribute monetarily, you can make a donation of the amount you want through   Paypal. Thank you so much for everything.
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RS4CKRLKDTKFJ)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/tigaxmt?locale.x=pt_PT)
 
 # Contact
 
