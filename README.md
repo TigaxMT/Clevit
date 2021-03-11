@@ -1,4 +1,4 @@
-# ![img](https://lh3.googleusercontent.com/UPvIq9ydyUNb4wBgAsFHLTKCqA1v6EGaZpAAYjd75NKZASsezPIDW2GhTElLmZvKUIgRxg9y1Qfc5xhwUg=w1000-no-tmp.jpg)[Clevit](https://goo.gl/fcM7JC "Clevit Offical Site")
+# Clevit
 ## The only smart text editor in this galaxy!
 - - -
 [![travis build](https://travis-ci.org/TigaxMT/Clevit.svg?branch=master)](https://travis-ci.org/TigaxMT/Clevit)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8990879e312a47a7993c2a4c18a26f0b)](https://www.codacy.com/app/TigaxMT/Clevit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TigaxMT/Clevit&amp;utm_campaign=Badge_Grade)
