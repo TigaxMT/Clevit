@@ -7,12 +7,6 @@
 
 This project will no longer be continued. Any errors or functionality that you want to correct or implement will be welcome, but I will not work on this project anymore because I am focused on web development. Thanks for everything :)
 
-# Video Review
-
-I did a review of Clevit. It is in Portuguese but soon will have subtitles in English. 
-
-Check here: https://www.youtube.com/watch?v=CwLwGBJOVls
-
 # Demo Gif
 
 ![Alt Text](https://github.com/TigaxMT/Clevit/blob/master/Clevit.gif)
